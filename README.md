@@ -1,10 +1,21 @@
-### Hi there 👋
+### 🔭 I'm currently working on ...
+- 3D Computer Vision
+- Deep Learning (Self-Supervised Learning)
+- Geometry Processing (Mesh)
+- Image Processing
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=astaka-pe&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=astaka-pe&theme=tokyonight&hide=prs,issues)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astaka-pe&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astaka-pe&theme=tokyonight)
+ -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=astaka-pe&theme=tokyonight&hide=prs,issues" height=140> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astaka-pe&theme=tokyonight" height=140>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astaka-pe&theme=tokyonight" width="700">
+</div>
 
 <!--
-**astaka-pe/astaka-pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
