@@ -11,8 +11,8 @@
  -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astaka-pe&theme=tokyonight&hide=prs,issues" height=140> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astaka-pe&theme=tokyonight" height=140>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astaka-pe&theme=tokyonight" width="700">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astaka-pe&theme=tokyonight" width="700">
+  <img src="https://github-readme-stats.vercel.app/api?username=astaka-pe&theme=tokyonight&hide=prs,issues" height=130> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astaka-pe&theme=tokyonight" height=130>
 </div>
 
 <!--
