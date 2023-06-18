@@ -1,11 +1,11 @@
+![](https://git-hub-readme-stats-clone-chi.vercel.app/api?username=astaka-pe&theme=shadow_blue&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&card_width=500)
+
 ## 🔭 My Interest
 - Computer Vision & Graphics
 - Deep Learning
 - Geometry Processing
 
 For more details, please visit [my website](https://astaka-pe.github.io/).
-
-![](https://git-hub-readme-stats-clone-chi.vercel.app/api?username=astaka-pe&theme=shadow_blue&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&card_width=500)
 
 <!--
 - 🔭 I’m currently working on ...
