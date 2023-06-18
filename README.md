@@ -1,19 +1,11 @@
-### 🔭 I'm currently working on ...
-- 3D Computer Vision
-- Deep Learning (Self-Supervised Learning)
-- Geometry Processing (Mesh)
-- Image Processing
+## 🔭 My Interest
+- Computer Vision & Graphics
+- Deep Learning
+- Geometry Processing
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=astaka-pe&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api?username=astaka-pe&theme=tokyonight&hide=prs,issues)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=astaka-pe&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astaka-pe&theme=tokyonight)
- -->
+For more details, please visit [my website](https://astaka-pe.github.io/).
 
-<div align="center">
-<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astaka-pe&theme=tokyonight" width="700"> -->
-  <img src="https://git-hub-readme-stats-clone-chi.vercel.app/api?username=astaka-pe&theme=shadow_blue&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&card_width=500">
-</div>
+![](https://git-hub-readme-stats-clone-chi.vercel.app/api?username=astaka-pe&theme=shadow_blue&rank_icon=github&count_private=true&include_all_commits=true&show_icons=true&card_width=500)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -25,3 +17,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astaka-pe&theme=tokyonight" width="700"> -->
