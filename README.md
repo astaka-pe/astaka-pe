@@ -1,7 +1,11 @@
+## 🧑‍💻 About Me
+Computer Vision R&D Engineer
+
 ## 🔭 My Interest
-- Computer Vision & Graphics
-- Deep Learning
+- Image Processing
 - Geometry Processing
+- Event-based Vision
+- Architecture & Optimization
 
 For more details, please visit [my website](https://astaka-pe.github.io/).
 
